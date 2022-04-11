@@ -5,7 +5,7 @@
 <p>Face-detection algorithms focus on the detection of frontal human faces. It is analogous to image detection in which the image of a person is matched bit by bit. Image matches with the image stores in the database.</p>
 
 <h4>Before</h4> 
---image smile.jpg
+<python fcae-detect.py --image smile.jpg
 
 
 
