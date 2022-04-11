@@ -1,6 +1,6 @@
+# -artificial-intelligence-fundamentals-with-python-2021-projects
 
 
-[Face-detection.pdf](https://github.com/Nureesan8726/Face-detection_Hakimah-Saebing-Nureesan-Sabahanaloh/files/8463358/Face-detection.pdf)
 
 
 
