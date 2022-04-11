@@ -5,16 +5,16 @@
 <p>Face-detection algorithms focus on the detection of frontal human faces. It is analogous to image detection in which the image of a person is matched bit by bit. Image matches with the image stores in the database.</p>
 
 <h4>Before</h4> 
-<img src="smile.png">
+<img src="smile.jpg">
 <h4>After</h4>
-<img src="smile2.png">
+<img src="smile2.jpgg">
 
 
 <h2>How face detection works:</h2>
 <p>Face detection applications use algorithms and ML to find human faces within larger images, which often incorporate other non-face objects such as landscapes, buildings and other human body parts like feet or hands. Face detection algorithms typically start by searching for human eyes -- one of the easiest features to detect. The algorithm might then attempt to detect eyebrows, the mouth, nose, nostrils and the iris. Once the algorithm concludes that it has found a facial region, it applies additional tests to confirm that it has, in fact, detected a face.</p>
 
 <h2>Design Solution:</h2>
-
+<img src="capture11.png">
 
 <h2>Problem Statement :</h2>
 <p>Many parts of a certain image may not contain the useful information we need, so the goal of face detection is to display an image that can be identified as human faces and can be analyzed more easily.</p>
